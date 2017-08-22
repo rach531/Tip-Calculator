@@ -39,6 +39,7 @@ As part of your pre-work submission, please reflect on the app and answer the fo
 **Question 1**: "What are your reactions to the iOS app development platform so far? How would you describe outlets and actions to another developer? Bonus: any idea how they are being implemented under the hood? (It might give you some ideas if you right-click on the Storyboard and click Open As->Source Code")
 
 **Answer:** 
+I am learning a lot from my first assignment for iOS. All small enhancements allow me to explore different stuff in xCode and iOS.
 Outlet and Actions, both are used to communicate with UIView. Outlets allow code to send message to UI controls on storyboard. Actions allow storyboard control to send message to code to take some actions.
 
 Question 2: "Swift uses [Automatic Reference Counting]
